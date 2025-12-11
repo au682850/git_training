@@ -1,3 +1,4 @@
+#ignore these files:
 .Rproj.user
 .Rhistory
 .RData
